@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Software Enginee
 * 🤝 **I’m looking to collaborate on:** Open-source machine learning projects, Quantum Machine Learning initiatives, and pioneering AI research.
 * 🤔 **I’m looking for help with:** Optimizing algorithms, debugging complex models, and scaling ML systems for production.
 * 💬 **Ask me about:** Machine learning techniques, quantum computing applications in ML, software engineering challenges, or the latest in AI research.
-* 📫 **How to reach me:** Feel free to connect via email at [your-email@example.com] or on [LinkedIn](https://linkedin.com/in/chansreynich-huot).
+* 📫 **How to reach me:** Feel free to connect via  [LinkedIn](https://linkedin.com/in/chansreynich-huot).
 * ❤️ **I love:** Exploring new technologies, solving challenging problems, and constantly pushing the boundaries of what AI and quantum computing can do.
 * ⚡ **Fun fact:** I once experimented with training a neural network on quirky datasets – it ended up with a surprisingly humorous twist!
 
