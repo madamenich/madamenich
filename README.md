@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/> -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Chansreynich%20Huot&reversal=false&animation=twinkling&fontColor=739186"/>
 </p>
 
-# Hello, I'm Chansreynich Huot
+# Hello!
 
 Welcome to my GitHub profile! I'm a passionate Machine Learning Software Engineer with a strong focus on Quantum Machine Learning and advanced AI research.
 
