@@ -34,7 +34,6 @@ For a complete list of my publications, please visit my [Google Scholar Profile]
 
 
 <h2>🚀 Some Tools I Have Used and Learned</h2>
-<h2>🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
   <!-- Machine Learning Icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
