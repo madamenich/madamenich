@@ -42,6 +42,8 @@ For a complete list of my publications, please visit my [Google Scholar Profile]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="45" height="45"/>
+   <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" alt="Scikit-Learn" width="45" height="45"/>
+
 
   <!-- Full Stack Icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
